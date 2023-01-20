@@ -1,0 +1,15 @@
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\bin\Debug\net6.0\qstn_5.exe
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\bin\Debug\net6.0\qstn_5.deps.json
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\bin\Debug\net6.0\qstn_5.runtimeconfig.json
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\bin\Debug\net6.0\qstn_5.dll
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\bin\Debug\net6.0\qstn_5.pdb
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.csproj.AssemblyReference.cache
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.AssemblyInfoInputs.cache
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.AssemblyInfo.cs
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.csproj.CoreCompileInputs.cache
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.dll
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\refint\qstn_5.dll
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.pdb
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\qstn_5.genruntimeconfig.cache
+C:\Users\manikuutty.babu\source\repos\qstn_5\qstn_5\obj\Debug\net6.0\ref\qstn_5.dll
